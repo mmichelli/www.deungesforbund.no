@@ -417,7 +417,7 @@ body a:hover {
   text-indent: -9999em;
   overflow: hidden;
   text-align: left;
-  background-image: url('images/DUF_logo.png');
+  background-image: url('../images/DUF_logo.png');
   background-repeat: no-repeat;
   background-position: 50% 50%;
   float: right;
